@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [cesartroubles.com](cesartroubles.com)
 
-- 📫 How to reach me **cesar.troubles.com**
+- 📫 How to reach me **cesar.troubles@gmail.com**
 
 - 📄 Know about my experiences [cesartroubles.com](cesartroubles.com)
 
