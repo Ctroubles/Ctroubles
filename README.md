@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#(ASP.NET), Angular**
 
-- 👯 I’m looking to collaborate on [Whatever, I like challenges. I'm really tryhard.](cesar.troubles@gmail.com)
+- 👯 I’m looking to collaborate on Whatever, I like challenges. I'm really tryhard. **cesar.troubles@gmail.com**
 
 - 👨‍💻 All of my projects are available at [cesartroubles.com](https://www.cesartroubles.com/)
 
