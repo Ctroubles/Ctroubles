@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on [Whatever, I like challenges. I'm really tryhard.](cesar.troubles@gmail.com)
 
-- 👨‍💻 All of my projects are available at [cesartroubles.com](cesartroubles.com)
+- 👨‍💻 All of my projects are available at [cesartroubles.com](https://www.cesartroubles.com/)
 
-- 📝 I regularly write articles on [cesartroubles.com](cesartroubles.com)
+- 📝 I regularly write articles on [cesartroubles.com](https://www.cesartroubles.com/)
 
 - 📫 How to reach me **cesar.troubles@gmail.com**
 
-- 📄 Know about my experiences [cesartroubles.com](cesartroubles.com)
+- 📄 Know about my experiences [cesartroubles.com](https://www.cesartroubles.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
