@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm César</h1>
 <h3 align="center">A passionate frontend and backend developer from Perú</h3>
 
-- 🔭 I’m currently working on freelancer projects **Convicts'Vault (Web), Church of Santo Domingo (Web)**
+- 🔭 I’m currently working as a Full-Stack Developer (C# / React) at Dakota Group US
 
-- 🌱 I’m currently learning **C#(ASP.NET), Angular**
-
-- 👯 I’m looking to collaborate on Whatever, I like challenges. I'm really tryhard. **cesar.troubles@gmail.com**
+- 👯 Open to collaboration on exciting projects. I love challenges and work hard to achieve results. 📩 cesar.troubles@gmail.com
 
 - 👨‍💻 All of my projects are available at [cesartroubles.com](https://www.cesartroubles.com/)
 
